@@ -1,1 +1,1 @@
-# LaundyGO
+# LaundryGO
